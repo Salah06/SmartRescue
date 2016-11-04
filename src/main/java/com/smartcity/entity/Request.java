@@ -8,7 +8,7 @@ public class Request {
 
     private Services service;
     private Level emergencyLevel;
-    private String address;
+    private String address; // Address
 
     public Services getService() {
         return service;
